@@ -1,3 +1,3 @@
 # num-pad
-this is my first repo.
-author - Zikra Ansari 
+This is my first repo.
+Author - Zikra Ansari 
